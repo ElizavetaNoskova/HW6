@@ -99,6 +99,5 @@ public class Main {
             }
             cometPeriod=cometPeriod+79;
         }
-
     }
 }
